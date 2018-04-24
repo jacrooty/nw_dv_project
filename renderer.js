@@ -3,8 +3,8 @@
 // All of the Node.js APIs are available in this process.
 console.log('executing renderer.js')
 
-require('./d3-bar-chart.js');
-require('./bootstrap.min.js');
-require('c3.min.js');
+// require('./d3-bar-chart.js');
+// require('./bootstrap.min.js');
+// require('c3.min.js');
 
 
